@@ -5,7 +5,7 @@
 ## Raiden-Bot
 <img src="https://c.tenor.com/G7KlkytjFBcAAAAd/raiden-shogun-ei.gif" width="45%" style="margin-left: auto;margin-right: auto;display: block;">
   
-This is Script of WhatsApp multi device 
+This is Script of WhatsApp bot
   
 working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
